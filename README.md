@@ -4,7 +4,7 @@
 
 :house_with_garden: I’m from Belo Horizonte/Brazil.
 
-:computer: My favorites programming languages are Python and SQL
+:computer: Currently studying SQL and Python
 
 :outbox_tray: 2022 Goals: Create news projects and find a new Internship
 
