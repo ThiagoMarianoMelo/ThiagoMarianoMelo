@@ -8,3 +8,5 @@
 
 :outbox_tray: 2022 Goals: Create news projects and find a new Internship
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarianoMelo)]
