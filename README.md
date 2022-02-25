@@ -4,7 +4,7 @@
 	
 :house_with_garden: I’m from Belo Horizonte/Brazil.  
 
-:computer: Currently studying SQL and Python
+:computer: Currently Working as mainframe analyst.
 
-:outbox_tray: 2022 Goals: Create news projects and find a new Internship
+
 
