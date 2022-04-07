@@ -4,7 +4,7 @@
 	
 :house_with_garden: I’m from Belo Horizonte/Brazil.
 
-:computer: Currently Working as mainframe analyst.
+:computer: Currently Working as sistem analyst.
 
 
 
