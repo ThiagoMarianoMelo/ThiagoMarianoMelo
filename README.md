@@ -9,7 +9,6 @@
 :computer: Currently Working as mainframe analyst.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarianoMelo&layout=compact)](https://github.com/ThiagoMarianoMelo/github-readme-stats)
-
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 
