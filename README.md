@@ -6,9 +6,3 @@
 
 :computer: Currently Working as Systems Analyst.
 
-<div>
-  <a href="https://github.com/ellen2121">
-  <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ThiagoMarianoMelo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoMarianoMelo&layout=compact&langs_count=7&theme=react" />
-
-</div>
